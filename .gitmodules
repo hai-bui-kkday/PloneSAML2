@@ -7,3 +7,7 @@
 [submodule "src/dm.zope.saml2"]
 	path = src/dm.zope.saml2
 	url = https://github.com/hai-bui-kkday/dm.zope.saml2.git
+[submodule "src/collective.saml2"]
+	path = src/collective.saml2
+	url = https://github.com/hai-bui-kkday/collective.saml2.git
+	branch = master
